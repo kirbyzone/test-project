@@ -1,0 +1,10 @@
+
+columns:
+  - width: 1/2
+    sections:
+      pages:
+        type: pages
+        templates:
+          - error
+          - home
+          - kirbyzone

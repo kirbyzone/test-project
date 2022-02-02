@@ -1,0 +1,11 @@
+title: Kirbyzone
+
+icon: 🏠
+
+
+sections:
+  pages:
+    type: pages
+    headline: Clients
+    templates:
+      - clients

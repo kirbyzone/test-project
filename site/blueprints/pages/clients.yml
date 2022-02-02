@@ -1,0 +1,41 @@
+title: Clients
+
+icon: ☎️
+
+tabs:
+  content:
+    icon: text
+    label: content
+    sections:
+      toggle_option:
+        type: fields
+        fields:
+          first_name:
+            type: text
+            label: first name
+            width: 2/3
+          last_name:
+            type: text
+            label: last name
+            width: 2/3
+          email:
+            type: email
+            label:  Email
+            width: 2/3
+          address:
+            type: textarea
+            size: tiny
+            width: 2/3
+            buttons: false
+          phone:
+            type: text
+            label: phone 
+            width: 2/3
+      pages:
+        type: pages
+        headline: Servers
+        templates:
+          - servers
+
+
+

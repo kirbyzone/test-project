@@ -1,0 +1,71 @@
+title: Sites
+
+icon: ☎️
+
+tabs:
+  content:
+    icon: text
+    label: content
+    sections:
+      toggle_option:
+        type: fields
+        fields:
+          sites_name:
+            type: text
+            label: Site name
+            width: 2/3
+          sites_domain:
+            type: text
+            label: Site Domain
+            width: 2/3
+          sites_description:
+            type: textarea
+            label: Site Description
+            buttons: false
+            size: tiny
+            width: 2/3
+
+
+
+    pages:
+      type: pages
+      templates:
+        - about
+        - home
+        - kirbyzone
+        - default
+
+  contact:
+    icon: map
+    label: Contact
+    columns:
+      - width: 1/2
+        # Kirby has many different field types, from simple text fields to the more complex structure field that contains subfields
+        # All available field types: https://getkirby.com/docs/reference/panel/fields
+        fields:
+          address:
+            label: Address
+            type: writer
+            inline: true
+          email:
+            label: Email
+            type: email
+          phone:
+            label: Phone
+            type: tel
+      - width: 1/2
+        fields:
+          social:
+            label: On the web
+            type: structure
+            columns:
+              platform: true
+            fields:
+              platform:
+                label: Platform
+                type: text
+                width: 1/2
+              url:
+                label: URL
+                type: url
+                width: 1/2
