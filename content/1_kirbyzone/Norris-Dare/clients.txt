@@ -1,0 +1,25 @@
+Title: Norris-Dare
+
+----
+
+First-name: Norris
+
+----
+
+Last-name: Dare
+
+----
+
+Email: tcorkery@watsica.net
+
+----
+
+Address: 84028 Nakia Passage Suite 984
+Albertmouth, NY 62919-6746
+
+----
+
+Phone: (786) 398-9940
+
+----
+

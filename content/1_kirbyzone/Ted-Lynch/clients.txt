@@ -1,0 +1,25 @@
+Title: Ted-Lynch
+
+----
+
+First-name: Ted
+
+----
+
+Last-name: Lynch
+
+----
+
+Email: koelpin.marques@fay.com
+
+----
+
+Address: 7754 Leonor Walks
+Deliafort, MS 20524
+
+----
+
+Phone: +15647369396
+
+----
+

@@ -1,0 +1,25 @@
+Title: Fred-Grimes
+
+----
+
+First-name: Fred
+
+----
+
+Last-name: Grimes
+
+----
+
+Email: huel.blaise@champlin.org
+
+----
+
+Address: 942 D'Amore Shoals Apt. 675
+Lake Brennonchester, UT 04855
+
+----
+
+Phone: (276) 597-3022
+
+----
+
