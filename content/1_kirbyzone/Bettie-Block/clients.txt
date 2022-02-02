@@ -1,0 +1,25 @@
+Title: Bettie-Block
+
+----
+
+First-name: Bettie
+
+----
+
+Last-name: Block
+
+----
+
+Email: roscoe40@hotmail.com
+
+----
+
+Address: 631 Ansel Forges
+South Annalise, NM 17023-8960
+
+----
+
+Phone: 631-489-5774
+
+----
+

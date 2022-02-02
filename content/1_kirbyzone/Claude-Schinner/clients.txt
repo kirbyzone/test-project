@@ -1,0 +1,25 @@
+Title: Claude-Schinner
+
+----
+
+First-name: Claude
+
+----
+
+Last-name: Schinner
+
+----
+
+Email: mlindgren@rodriguez.com
+
+----
+
+Address: 181 Zemlak Spur
+Deonville, CA 90032-5627
+
+----
+
+Phone: 585.476.5279
+
+----
+

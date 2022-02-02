@@ -1,0 +1,25 @@
+Title: Rick-Fay
+
+----
+
+First-name: Rick
+
+----
+
+Last-name: Fay
+
+----
+
+Email: conn.keira@yahoo.com
+
+----
+
+Address: 529 Romaguera Camp
+Watersfort, TX 34568-6535
+
+----
+
+Phone: 240-890-1142
+
+----
+

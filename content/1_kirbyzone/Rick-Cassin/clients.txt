@@ -1,0 +1,25 @@
+Title: Rick-Cassin
+
+----
+
+First-name: Rick
+
+----
+
+Last-name: Cassin
+
+----
+
+Email: ryann.torp@farrell.com
+
+----
+
+Address: 5539 Schneider Passage Suite 566
+East Lottieville, NM 81033
+
+----
+
+Phone: 662-429-3235
+
+----
+
