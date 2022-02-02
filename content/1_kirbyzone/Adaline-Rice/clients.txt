@@ -1,0 +1,25 @@
+Title: Adaline-Rice
+
+----
+
+First-name: Adaline
+
+----
+
+Last-name: Rice
+
+----
+
+Email: schinner.karelle@hirthe.com
+
+----
+
+Address: 93754 Romaguera Viaduct Suite 516
+Maxieport, MS 31561-2547
+
+----
+
+Phone: +15593252277
+
+----
+

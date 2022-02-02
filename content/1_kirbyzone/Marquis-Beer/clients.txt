@@ -1,0 +1,25 @@
+Title: Marquis-Beer
+
+----
+
+First-name: Marquis
+
+----
+
+Last-name: Beer
+
+----
+
+Email: yost.francisca@maggio.com
+
+----
+
+Address: 377 Lorena Circle Apt. 475
+Kacifort, MA 31559-3385
+
+----
+
+Phone: 737-668-3616
+
+----
+

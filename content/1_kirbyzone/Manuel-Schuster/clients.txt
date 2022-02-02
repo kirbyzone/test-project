@@ -1,0 +1,25 @@
+Title: Manuel-Schuster
+
+----
+
+First-name: Manuel
+
+----
+
+Last-name: Schuster
+
+----
+
+Email: uhermann@bergnaum.com
+
+----
+
+Address: 2105 Vivianne Pine
+Port Kendra, IN 47793
+
+----
+
+Phone: +1.832.450.2787
+
+----
+

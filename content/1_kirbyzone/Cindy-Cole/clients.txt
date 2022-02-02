@@ -1,0 +1,25 @@
+Title: Cindy-Cole
+
+----
+
+First-name: Cindy
+
+----
+
+Last-name: Cole
+
+----
+
+Email: reichert.brock@little.com
+
+----
+
+Address: 493 Bashirian Ville
+North Peyton, MO 89371-3212
+
+----
+
+Phone: 1-425-898-1772
+
+----
+

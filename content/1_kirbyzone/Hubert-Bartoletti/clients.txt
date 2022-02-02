@@ -1,0 +1,25 @@
+Title: Hubert-Bartoletti
+
+----
+
+First-name: Hubert
+
+----
+
+Last-name: Bartoletti
+
+----
+
+Email: pierre.ondricka@kling.com
+
+----
+
+Address: 456 Jacynthe Crossing
+West Melany, RI 29519-5483
+
+----
+
+Phone: 1-585-392-9363
+
+----
+

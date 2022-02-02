@@ -1,0 +1,25 @@
+Title: Lera-Swift
+
+----
+
+First-name: Lera
+
+----
+
+Last-name: Swift
+
+----
+
+Email: ulakin@hotmail.com
+
+----
+
+Address: 82201 Trent Flats
+New Wilmabury, NJ 71576
+
+----
+
+Phone: +1-757-761-6584
+
+----
+

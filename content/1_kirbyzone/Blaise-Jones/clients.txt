@@ -1,0 +1,25 @@
+Title: Blaise-Jones
+
+----
+
+First-name: Blaise
+
+----
+
+Last-name: Jones
+
+----
+
+Email: braun.willy@ledner.com
+
+----
+
+Address: 235 Henriette Extension Apt. 338
+Vaughnland, LA 53994
+
+----
+
+Phone: 540-523-9356
+
+----
+

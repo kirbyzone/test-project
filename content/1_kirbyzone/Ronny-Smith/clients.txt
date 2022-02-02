@@ -1,0 +1,25 @@
+Title: Ronny-Smith
+
+----
+
+First-name: Ronny
+
+----
+
+Last-name: Smith
+
+----
+
+Email: ymarks@buckridge.com
+
+----
+
+Address: 729 Lambert Groves
+East Cassandre, ND 70818-7956
+
+----
+
+Phone: +1-217-798-8439
+
+----
+

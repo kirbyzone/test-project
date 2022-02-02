@@ -1,0 +1,25 @@
+Title: Julia-Schmitt
+
+----
+
+First-name: Julia
+
+----
+
+Last-name: Schmitt
+
+----
+
+Email: kamren32@jerde.com
+
+----
+
+Address: 723 Hollis Villages
+Bayermouth, IN 50653
+
+----
+
+Phone: +1-520-619-4654
+
+----
+

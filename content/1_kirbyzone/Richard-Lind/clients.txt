@@ -1,0 +1,25 @@
+Title: Richard-Lind
+
+----
+
+First-name: Richard
+
+----
+
+Last-name: Lind
+
+----
+
+Email: zola78@hotmail.com
+
+----
+
+Address: 163 Alan Springs Apt. 101
+Lake Imanihaven, WV 04230-4126
+
+----
+
+Phone: 1-458-205-4590
+
+----
+

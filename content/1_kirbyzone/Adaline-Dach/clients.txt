@@ -1,0 +1,25 @@
+Title: Adaline-Dach
+
+----
+
+First-name: Adaline
+
+----
+
+Last-name: Dach
+
+----
+
+Email: haag.jerry@barton.com
+
+----
+
+Address: 1224 Olson Squares Suite 719
+Alexashire, NV 87683-3194
+
+----
+
+Phone: 1-989-305-2168
+
+----
+

@@ -1,0 +1,25 @@
+Title: Frida-Parker
+
+----
+
+First-name: Frida
+
+----
+
+Last-name: Parker
+
+----
+
+Email: dwalker@hotmail.com
+
+----
+
+Address: 7395 Angelita Expressway
+Orrinland, NH 98235
+
+----
+
+Phone: 865-516-7842
+
+----
+

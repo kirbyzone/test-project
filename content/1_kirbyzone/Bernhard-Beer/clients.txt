@@ -1,0 +1,25 @@
+Title: Bernhard-Beer
+
+----
+
+First-name: Bernhard
+
+----
+
+Last-name: Beer
+
+----
+
+Email: kdeckow@ziemann.info
+
+----
+
+Address: 608 Rodriguez Green Apt. 798
+Lake Evan, IA 97355
+
+----
+
+Phone: (918) 553-6072
+
+----
+
