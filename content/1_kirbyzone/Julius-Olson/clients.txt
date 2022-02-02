@@ -1,0 +1,25 @@
+Title: Julius-Olson
+
+----
+
+First-name: Julius
+
+----
+
+Last-name: Olson
+
+----
+
+Email: karelle.hansen@cummings.com
+
+----
+
+Address: 257 Grady Shoal
+Minniemouth, RI 89474
+
+----
+
+Phone: 1-502-405-3595
+
+----
+

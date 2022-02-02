@@ -1,0 +1,25 @@
+Title: Fred-Ankunding
+
+----
+
+First-name: Fred
+
+----
+
+Last-name: Ankunding
+
+----
+
+Email: pink52@boyle.com
+
+----
+
+Address: 564 Trent Street
+South Keegan, NE 02060-8066
+
+----
+
+Phone: (520) 682-0303
+
+----
+

@@ -1,0 +1,25 @@
+Title: Waldo-Thompson
+
+----
+
+First-name: Waldo
+
+----
+
+Last-name: Thompson
+
+----
+
+Email: dagmar.kertzmann@yahoo.com
+
+----
+
+Address: 2337 Haylie Ford
+South Hillary, MA 52885
+
+----
+
+Phone: (763) 642-2708
+
+----
+

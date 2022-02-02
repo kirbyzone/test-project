@@ -1,0 +1,25 @@
+Title: Franz-Kunde
+
+----
+
+First-name: Franz
+
+----
+
+Last-name: Kunde
+
+----
+
+Email: sporer.mack@hotmail.com
+
+----
+
+Address: 24242 Hirthe Parks
+West Noemiechester, IA 81853
+
+----
+
+Phone: (445) 750-5329
+
+----
+

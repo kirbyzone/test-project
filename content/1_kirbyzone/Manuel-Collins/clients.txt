@@ -1,0 +1,25 @@
+Title: Manuel-Collins
+
+----
+
+First-name: Manuel
+
+----
+
+Last-name: Collins
+
+----
+
+Email: aharvey@nicolas.com
+
+----
+
+Address: 664 Devante Avenue
+East Macitown, TN 08003
+
+----
+
+Phone: (754) 655-2753
+
+----
+
